@@ -1,0 +1,10 @@
+{
+    "phase1": [
+        "job_id_1",
+        "job_id_2"
+    ],
+    "phase2": [
+        "job_id_3",
+        "job_id_4"
+    ]
+}
