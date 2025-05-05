@@ -4,11 +4,11 @@ This repository contains my completed lab notebooks from the Qiskit Global Summe
 
 ## Contents
 
-- `lab1.ipynb` – Lab 1: [Short title or topic if known]
-- `lab2.ipynb` – Lab 2: [Short title or topic if known]
-- `lab3.ipynb` – Lab 3: [Short title or topic if known]
-- `lab4.ipynb` – Lab 4: [Short title or topic if known]
-
+- `lab1.ipynb` – Lab 1: Quantum Circuit Transpilation
+- `lab2.ipynb` – Lab 2: Utility-Scale Layer Fidelity Experiment
+- `lab3.ipynb` – Lab 3: Quantum Error Suppression and Mitigation with Qiskit Runtime
+- `lab4.ipynb` – Lab 4: Simulating Nature at Utility Scale
+  
 These Jupyter notebooks are based on the hands-on exercises provided during the summer school.
 
 ## License
