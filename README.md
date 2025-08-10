@@ -1,6 +1,6 @@
 # Qiskit Global Summer School 2024 – Labs
 
-This repository contains my completed lab notebooks from the Qiskit Global Summer School 2024, organized by IBM Quantum. The theme for this year was **[insert theme if you remember it, e.g., Quantum Simulation or Quantum Machine Learning]**.
+This repository contains my completed lab notebooks from the Qiskit Global Summer School 2024, organized by IBM Quantum.
 
 ## Contents
 
